@@ -1,6 +1,6 @@
 # Agnieszka-Bartkowska-portfolio
 # **About me**
-My name is Agnieszka Bartkowska. Currently I am an department manager in the retail industry, but recently I have embarked on a career change journey in order to become a Software Tester. My previous workplace helped me develop a lot of usefull soft skills so now I am focusing on development of my testing knowlage and technical skills. In this portfolio I would like to share my gained experiece and show what I have lerned so far.
+My name is Agnieszka Bartkowska. Currently, I am a department manager in the retail industry, but recently I have embarked on a career change journey in order to become a Software Tester. My previous workplace helped me develop a lot of useful soft skills so now I am focusing on the development of my testing knowledge and technical skills. In this portfolio, I would like to share my gained experience and show what I have learned so far.
 # **Courses**
 * Dare IT Challenge: QA Manual Tester 
 * Jira od podstaw - zarządzanie projektami (Udemy)
