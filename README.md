@@ -30,7 +30,9 @@ Fundamentals of digital marketing- Googole Digital Garage (certificate identific
 ## Bugs
 * [Bugs on Focusly mobile app](https://docs.google.com/document/d/1OlbZJxA7RsKmtlFZJ2mkPBR91d6SDaSmXM7XaTUWi4Q/edit?usp=share_link)
 * [Bugs on scouts-test.futbolkolektyw.pl web app](https://docs.google.com/document/d/1Uo8seh3jUhqUISe2zzOeCuHPcDR4DSjkdFhPAHreebQ/edit?usp=share_link)
-* [Short report on scouts-test.futbolkolektyw.pl](https://docs.google.com/document/d/17UqIgK6j8KvOEX0C2p4qAGlMr1F9hgzq18aijXYJ3fw/edit?usp=share_link)
+
 ## Test cases
 * [User Story-based test cases on scouts-test.futbolkolektyw.pl web app](https://docs.google.com/document/d/1zruE5uYCEHi5lA7CgPvwbE_OFJQusfp7rz6GvhzPcTc/edit?usp=share_link)
 * [Test cases based on my own experience on scouts-test.futbolkolektyw.pl web app](https://docs.google.com/document/d/1apr1ixyxF0GCTytJUk68JiXe6GM79t9XkiTRDzp0LjM/edit?usp=share_link)
+## Reports
+* [Report on scouts-test.futbolkolektyw.pl](https://docs.google.com/document/d/17UqIgK6j8KvOEX0C2p4qAGlMr1F9hgzq18aijXYJ3fw/edit?usp=share_link)
