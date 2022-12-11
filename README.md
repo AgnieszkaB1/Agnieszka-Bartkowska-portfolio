@@ -11,8 +11,8 @@ My name is Agnieszka Bartkowska. Currently, I am a department manager in the ret
 Fundamentals of digital marketing- Googole Digital Garage (certificate identification: 45G TFB 7RZ)
 
 # **Tools**
-* Jira - bug tracker
-* Slack - for communication within the team
+* Jira
+* Slack 
 * GitHub
 * Xampp
 # **Tech skills**
