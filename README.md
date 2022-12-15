@@ -8,8 +8,8 @@ My name is Agnieszka Bartkowska. Currently, I am a department manager in the ret
 * Fundamentals of digital marketing (Googole Digital Garage) 
 
 # **Certificates**
-Fundamentals of digital marketing- Googole Digital Garage (certificate identification: 45G TFB 7RZ)
-
+09/2022- Fundamentals of digital marketing- Googole Digital Garage (certificate identification: 45G TFB 7RZ)
+12/2022- Dare IT Challenge: QA Manual Tester 
 # **Tools**
 * Jira
 * Slack 
